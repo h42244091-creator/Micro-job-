@@ -1,0 +1,6 @@
+{
+  "name": "MicroJob Platform",
+  "description": "A modern, unified user-centric Micro Job platform where users can complete tasks, submit proofs, post micro jobs with escrow protection, manage earnings with bKash/Nagad cashout, and earn lifetime commissions via the referral system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
